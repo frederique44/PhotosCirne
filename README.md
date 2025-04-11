@@ -1,2 +1,2 @@
 #PhotosCirne
-Bienvenue dans mon dépoy de photos.
+Bienvenue dans mon dépot de photos.
